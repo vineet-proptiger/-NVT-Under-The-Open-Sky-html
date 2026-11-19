@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://rohanvillahennurroad.co.in/sitemap.xml
+Sitemap: https://nvtundertheopenskyvillas.co.in/sitemap.xml
