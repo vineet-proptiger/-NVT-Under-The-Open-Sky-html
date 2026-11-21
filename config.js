@@ -12,8 +12,8 @@ window.CALL_DISPLAY = "+91 9718344024";
 window.WHATSAPP_URL = "https://wa.me/" + window.WHATSAPP_NO + "?text=" + encodeURIComponent("Hi I am interested in " + window.PROJECT_NAME);
 window._cLink = window.WHATSAPP_URL;
 
-window.CITY_DISPLAY = "Bengaluru";
-window.CITY_SLUG = "bengaluru";
+window.CITY_DISPLAY = "Bangalore";
+window.CITY_SLUG = "bangalore";
 window.CITY_ID = "2";
 window.SHEET_NAME = "bangalore";
 window.SECRET_KEY = "6c7f9ad8b2a1e0f4d5a8c0b9f6e2a4d190";
